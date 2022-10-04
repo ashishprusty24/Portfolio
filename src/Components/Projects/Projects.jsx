@@ -128,17 +128,22 @@ export const Projects = () => {
               </div>
             </div>
           </div>
+
+
+
+
+
           <div className="projects_container" data-aos="fade-right">
             <div className="project">
               <div className="project_videocontainer">
                 <div>
-                <img src={project2} alt="Images" />
+                <img src={project4} alt="Images" />
                 </div>
               </div>
               <div className="project_information">
-                <h2>Disney</h2>
+                <h2>Nordstorm</h2>
                 <p>
-                This project is a website clone of ShopDisney.com famous for selling toys and clothings build with HTML, CSS and Javascript
+                Nordstrom Rack is an American off-price department store chain. We have cloned this website with all possible functionalities using HTML, JavaScript and CSS.
                 </p>
                 <div className="tec">
                   <IoLogoJavascript />
@@ -147,7 +152,7 @@ export const Projects = () => {
                 </div>
                 <div>
                   <a
-                    href="https://sparkling-narwhal-127bca.netlify.app/"
+                    href="https://quiet-crepe-a6deeb.netlify.app/"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -156,7 +161,7 @@ export const Projects = () => {
                     </span>
                   </a>
                   <a
-                    href="https://github.com/ashishprusty24/Disney-Clone"
+                    href="https://github.com/ashishprusty24/Nord_clone"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -168,6 +173,7 @@ export const Projects = () => {
               </div>
             </div>
           </div>
+
           <div className="projects_container" data-aos="fade-right">
             <div className="project">
               <div className="project_videocontainer">
@@ -180,8 +186,7 @@ export const Projects = () => {
                 <p>
                   Weather App is a platform used to get weather report as per
                   users search for their respective city or they can also pick
-                  up any location from the provided google map And also see
-                  upcoming 7 days data after searching.
+                  up any location from the provided google map
                 </p>
                 <div className="tec">
                   <IoLogoJavascript />
@@ -215,13 +220,13 @@ export const Projects = () => {
             <div className="project">
               <div className="project_videocontainer">
                 <div>
-                <img src={project4} alt="Images" />
+                <img src={project2} alt="Images" />
                 </div>
               </div>
               <div className="project_information">
-                <h2>Nordstorm</h2>
+                <h2>Disney</h2>
                 <p>
-                Nordstrom Rack is an American off-price department store chain. We have cloned this website with all possible functionalities using HTML, JavaScript and CSS.
+                This project is a website clone of ShopDisney.com famous for selling toys and clothings build with HTML, CSS and Javascript
                 </p>
                 <div className="tec">
                   <IoLogoJavascript />
@@ -230,7 +235,7 @@ export const Projects = () => {
                 </div>
                 <div>
                   <a
-                    href="https://quiet-crepe-a6deeb.netlify.app/"
+                    href="https://sparkling-narwhal-127bca.netlify.app/"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -239,7 +244,7 @@ export const Projects = () => {
                     </span>
                   </a>
                   <a
-                    href="https://github.com/ashishprusty24/Nord_clone"
+                    href="https://github.com/ashishprusty24/Disney-Clone"
                     target="_blank"
                     rel="noreferrer"
                   >
